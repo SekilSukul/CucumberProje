@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="34.786">
+    <testcase classname="Walmart Urun Arama" name="TC08_kullanici walmartta urun arar" time="14.587">
+        <system-out>
+            <![CDATA[Given kullanici "http://walmart.com" sayfasina gider........................passed
+And kullanici walmart arama kutusuna "calculator" yazar ve arar.............passed
+Then kullanici walmart sonuc sayisini ekrana yazdirir.......................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Walmart Urun Arama" name="TC08_kullanici walmartta urun arar 2" time="12.08">
+        <system-out>
+            <![CDATA[Given kullanici "http://walmart.com" sayfasina gider........................passed
+And kullanici walmart arama kutusuna "watch" yazar ve arar..................passed
+Then kullanici walmart sonuc sayisini ekrana yazdirir.......................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Walmart Urun Arama" name="TC08_kullanici walmartta urun arar 3" time="7.877">
+        <system-out>
+            <![CDATA[Given kullanici "http://walmart.com" sayfasina gider........................passed
+And kullanici walmart arama kutusuna "flower" yazar ve arar.................passed
+Then kullanici walmart sonuc sayisini ekrana yazdirir.......................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

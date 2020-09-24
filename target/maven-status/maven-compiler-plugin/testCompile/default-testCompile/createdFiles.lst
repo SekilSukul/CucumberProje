@@ -1,0 +1,12 @@
+stepdefinitions\WalmartStepDefinitions.class
+runners\AmazonRunner.class
+pages\AmazonPage.class
+runners\Runner01.class
+stepdefinitions\Hooks.class
+pages\WalmartPage.class
+stepdefinitions\AmazonStepDefinitions.class
+utilities\Driver.class
+utilities\ConfigurationReader.class
+runners\WalmartRunner.class
+pages\GooglePage.class
+stepdefinitions\GoogleAramaStepDefinitions.class
